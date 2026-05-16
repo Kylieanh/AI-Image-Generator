@@ -293,6 +293,30 @@ Recommended quick test after startup:
 - check history
 
 ## Demo account, if login is required
+# AI Vision Web App
+
+AI Vision is a web application for AI-assisted image generation and editing using prompt-based technologies.
+
+## Features
+- AI image generation from text prompts
+- AI-assisted image editing
+- User authentication and storage
+- Responsive web interface
+
+## Tech Stack
+- Frontend: React 19, Vite, Tailwind CSS
+- Backend: FastAPI
+- Database/Auth: Supabase
+- AI Integration: Hugging Face Inference API
+- Deployment: Vercel
+
+## Team Project
+Developed as a group academic project.
+
+## My Contributions
+- Assisted in frontend development
+- Integrated AI image generation features
+- Participated in UI design and testing
 
 Login is required for the main features.
 
